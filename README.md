@@ -62,13 +62,17 @@
 
 ## 📊 Language & Stack Overview
 
-![Python](https://img.shields.io/badge/Python-Strong-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-orange?style=for-the-badge&logo=javascript)
-![MachineLearning](https://img.shields.io/badge/Machine%20Learning-Active-brightgreen?style=for-the-badge&logo=ai)
-![C](https://img.shields.io/badge/C-Intermediate-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-Basic-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Basic-blue?style=for-the-badge&logo=css3)
+| Skill              | Level        | Proficiency        |
+|--------------------|--------------|--------------------|
+| ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=flat-square)         | ★★★★★         | Strong              |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=javascript&style=flat-square)     | ★★★★☆         | Advanced            |
+| ![Machine Learning](https://img.shields.io/badge/-ML%20%26%20AI-brightgreen?logo=ai&style=flat-square) | ★★★★☆         | Active Learner      |
+| ![C](https://img.shields.io/badge/-C-blue?logo=c&style=flat-square)                   | ★★★☆☆         | Intermediate        |
+| ![C++](https://img.shields.io/badge/-C++-lightgrey?logo=c%2B%2B&style=flat-square)             | ★★★☆☆         | Intermediate        |
+| ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=flat-square)           | ★★☆☆☆         | Basic               |
+| ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&style=flat-square)              | ★★☆☆☆         | Basic               |
+
+
 
 <pre>
 Python       ██████████████████████████████████████
