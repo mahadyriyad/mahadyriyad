@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-🎓 CS Undergrad at **Dhaka International University** 
+🎓 CS Undergrad at **Dhaka International University** |   
 💻 Proficient in **Python, JavaScript, Web Development, Machine Learning, C, C++**  
 🚀 Passionate about **Front-end Development, AI**, and building real-world solutions  
 🔬 Researching **Machine Learning, Natural Language Processing (NLP)** & **Computer Vision**  
@@ -100,7 +100,7 @@ CSS          █████████████████████
 
 - 📧 Email: `mahadyriyad24@gmail.com`  
 - 💼 LinkedIn: [linkedin.com/in/mahadyriyad](https://www.linkedin.com/in/mahadyriyad)  
-- 🌐 Portfolio Website: [mahadyriyad.github.io/my-website-](https://mahadyriyad.github.io/my-website-/)
+- 🌐 Portfolio Website: [mahadyriyad.github.io](https://mahadyriyad.github.io)
 
 ---
 
