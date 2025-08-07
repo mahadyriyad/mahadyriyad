@@ -67,7 +67,8 @@
 ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-Active-brightgreen?style=for-the-badge&logo=ai)
 ![C](https://img.shields.io/badge/C-Intermediate-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-CSS-Basic-critical?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML-Basic-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Basic-blue?style=for-the-badge&logo=css3)
 
 <pre>
 Python       ██████████████████████████████████████
@@ -75,7 +76,8 @@ JavaScript   ██████████████████████�
 ML & AI      ██████████████████████████
 C            ███████████████████
 C++          █████████████████
-HTML/CSS     █████████
+HTML         ████████
+CSS          ███████
 </pre>
 
 ---
