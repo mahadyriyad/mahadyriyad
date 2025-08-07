@@ -100,7 +100,7 @@ CSS          █████████████████████
 
 - 📧 Email: `mahadyriyad24@gmail.com`  
 - 💼 LinkedIn: [linkedin.com/in/mahadyriyad](https://www.linkedin.com/in/mahadyriyad)  
-- 🌐 Portfolio Website: [mahadyriyad.github.io](https://mahadyriyad.github.io)
+- 🌐 Portfolio Website: [mahadyriyad.github.io]([https://mahadyriyad.github.io](https://mahadyriyad.github.io/my-website-/))
 
 ---
 
