@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-🎓 CS Undergrad at **Dhaka International University** | CGPA: 3.96  
+🎓 CS Undergrad at **Dhaka International University** 
 💻 Proficient in **Python, JavaScript, Web Development, Machine Learning, C, C++**  
 🚀 Passionate about **Front-end Development, AI**, and building real-world solutions  
 🔬 Researching **Machine Learning, Natural Language Processing (NLP)** & **Computer Vision**  
