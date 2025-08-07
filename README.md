@@ -6,7 +6,7 @@
 <!-- 📊 Banner Section with Stats and Streaks -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahadyriyad&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyriyad&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyriyad&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php" alt="Top Languages"/>
   <img src="https://streak-stats.demolab.com/?user=mahadyriyad&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak"/>
 </p>
 
@@ -15,7 +15,7 @@
 ## 👋 About Me
 
 🎓 CS Undergrad at **Dhaka International University** | CGPA: 3.96  
-💻 Skilled in **Python, JavaScript, C, C++, Web Dev, and AI**  
+💻 Skilled in **Python, JavaScript, Web Dev, ML, C, C++**  
 🚀 Passionate about **Front-end, AI**, and solving real-world problems  
 🔬 Researching **Machine Learning, NLP & Computer Vision**  
 🌱 Exploring **Full Stack Development** and open-source contributions  
@@ -25,7 +25,7 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS  
+- **Languages**: Python, JavaScript, C, C++, HTML, CSS  
 - **Frameworks**: Django, React.js, Node.js, Express.js  
 - **Tools & Tech**: Git, GitHub, VS Code, MongoDB, SQL, REST API  
 - **AI & ML**: TensorFlow, PyTorch, Pandas, NumPy, OpenCV, NLP  
@@ -35,10 +35,7 @@
 
 ## 🌐 Problem Solving Profiles
 
-- 🔵 [Beecrowd](https://judge.beecrowd.com/en/profile/1066526)  
-- 🟠 [LeetCode](https://leetcode.com/u/mahadyriyad/)  
-- 🟢 [HackerRank](https://www.hackerrank.com/profile/mahadyriyad)  
-- 🟡 [Codeforces](https://codeforces.com/profile/mahadyriyad)
+- 🟠 [LeetCode](https://leetcode.com/u/_mahady_riyaaad_/)
 
 ---
 
@@ -63,18 +60,22 @@
 
 ---
 
-## 📊 Language Usage Overview
+## 📊 Language & Stack Overview
 
-![C](https://img.shields.io/badge/C-39.14%25-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-26.76%25-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-25.35%25-lightgrey?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-8.75%25-orange?style=for-the-badge&logo=html5)
+![Python](https://img.shields.io/badge/Python-Strong-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-orange?style=for-the-badge&logo=javascript)
+![MachineLearning](https://img.shields.io/badge/Machine%20Learning-Active-brightgreen?style=for-the-badge&logo=ai)
+![C](https://img.shields.io/badge/C-Intermediate-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey?style=for-the-badge&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/HTML-CSS-Basic-critical?style=for-the-badge&logo=html5)
 
 <pre>
-C      ██████████████████████████████████████ 39.14%
-Python ████████████████████████████           26.76%
-C++    █████████████████████████              25.35%
-HTML   ████████                               8.75%
+Python       ██████████████████████████████████████
+JavaScript   ████████████████████████████
+ML & AI      ██████████████████████████
+C            ███████████████████
+C++          █████████████████
+HTML/CSS     █████████
 </pre>
 
 ---
@@ -91,7 +92,7 @@ HTML   ████████                               8.75%
 ## 📬 Let's Connect
 
 - 📧 Email: `mahadyriyad24@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/mahadyriyad](https://www.linkedin.com/in/mahadyriyad) *(Optional — update if exists)*  
+- 💼 LinkedIn: [linkedin.com/in/mahadyriyad](https://www.linkedin.com/in/mahadyriyad) *(optional—replace if needed)*  
 - 🌐 Website: [mahadyriyad.github.io](https://mahadyriyad.github.io)
 
 ---
